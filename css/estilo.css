@@ -1,0 +1,35 @@
+body {
+    background-color: lightseagreen;
+}
+img {
+    display: block;
+    margin:0 0 0 auto;
+    width: 10%;
+}
+table, th, tr, td {
+    border: 1px solid #000000;
+    min-width: 80%;
+    margin: auto;
+    font-size: 1em;
+}
+.clase1 {
+    width: 5cm;
+}
+.clase2 {
+    width: 4cm;
+}
+img {
+    display: block;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 15px;
+}
+th {
+    background-color: rgb(164, 204, 218);
+    height: 1cm;
+}
+td {
+    background-color: lightcyan;
+    height: 1.5cm;
+}
